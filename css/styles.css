@@ -1,0 +1,83 @@
+body {
+  background-color: #E4F8FC;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px #2B5677;
+}
+
+h2 {
+  display: none;
+  text-align: center;
+  font-size: 5em;
+}
+
+h3 {
+  text-align: center;
+  font-size: 2.2em;
+  text-shadow: 2px 2px #2B5677;
+  margin-bottom: 18px;
+}
+
+h4 {
+  display: none;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  text-align: center;
+  font-size: 1.5em;
+  text-shadow: 1px 1px #2B5677;
+}
+
+li {
+  display: inline;
+  padding: .2em 1em;
+}
+
+#namearea {
+  display: none;
+  font-size: 3em;
+  text-decoration: underline;
+  text-align: center;
+  color: #00B3B4;
+}
+
+.form-group {
+  margin: 3em;
+}
+
+.paragraphs {
+  font-size: .4em;
+  color: #00B3B4;
+}
+
+.content {
+  margin-top: 3em;
+}
+
+.btn {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.answer {
+  margin: 3em;
+}
+
+.questionwords {
+  font-size: 1em;
+  font-weight: bolder;
+  text-shadow: 1px 1px #2B5677;
+}
+
+.jumbotron {
+  background-image: url("https://i.reddituploads.com/d9a27cea92234a14936fb9ea9626be01?fit=max&h=1536&w=1536&s=efea3da7d80e001b2455ed4a9090b9ea");
+  color: #E4F8FC;
+  margin-top: 1.7em;
+}
